@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Dragonstaff &amp; Technomage</title>
-    <link>http://localhost:1313/hugo-brewm/it/tags/</link>
+    <link>http://localhost:1313/dragonstaff_technomage/it/tags/</link>
     <description>Recent Posts in Tags on Dragonstaff &amp; Technomage</description>
     <generator>Hugo 0.142.0</generator>
     <language>it-IT</language>
     <managingEditor>email@example.com (Author Name)</managingEditor>
     <webMaster>email@example.com (Author Name)</webMaster>
     <copyright>Copyright (c) Foxxi</copyright>
-    <lastBuildDate>Sat, 01 Feb 2025 20:18:20 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-brewm/it/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Feb 2025 20:45:13 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/dragonstaff_technomage/it/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
