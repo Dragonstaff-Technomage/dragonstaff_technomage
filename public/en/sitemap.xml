@@ -12,7 +12,7 @@
   <url>
     <loc>http://localhost:1313/dragonstaff_technomage/en/</loc>
     
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/dragonstaff_technomage/id/" /><xhtml:link rel="alternate" hreflang="it-IT" href="http://localhost:1313/dragonstaff_technomage/it/" />
+    <xhtml:link rel="alternate" hreflang="it-IT" href="http://localhost:1313/dragonstaff_technomage/it/" />
     <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/" />
   </url>
   <url>
@@ -22,7 +22,7 @@
   <url>
     <loc>http://localhost:1313/dragonstaff_technomage/en/categories/</loc>
     
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/dragonstaff_technomage/id/categories/" /><xhtml:link rel="alternate" hreflang="it-IT" href="http://localhost:1313/dragonstaff_technomage/it/categories/" />
+    <xhtml:link rel="alternate" hreflang="it-IT" href="http://localhost:1313/dragonstaff_technomage/it/categories/" />
     <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/categories/" />
   </url>
   <url>
@@ -40,7 +40,7 @@
   <url>
     <loc>http://localhost:1313/dragonstaff_technomage/en/tags/</loc>
     
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/dragonstaff_technomage/id/tags/" /><xhtml:link rel="alternate" hreflang="it-IT" href="http://localhost:1313/dragonstaff_technomage/it/tags/" />
+    <xhtml:link rel="alternate" hreflang="it-IT" href="http://localhost:1313/dragonstaff_technomage/it/tags/" />
     <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/tags/" />
   </url>
 </urlset>

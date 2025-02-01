@@ -1,11 +1,4 @@
 [[main]]
-  name       = 'Fork!'
-  identifier = 'fork'
-  weight     = 3
-  url        = 'https://github.com/foxihd/hugo-brewm'
-  pre        = 'github'
-
-[[main]]
   name       = 'Series'
   identifier = 'series'
   pageRef    = '/series'
@@ -240,37 +233,31 @@
           parent     = 'more.menu.that.never.too'
           pageRef    = '/'
 
-[[footer]]
-  identifier = 'figma'
-  pageRef    = '/'
-  weight     = 1
-  name       = 'figma'
-  pre        = 'figma'
-
-[[footer]]
-  identifier = 'hashnode'
-  pageRef    = '/'
-  weight     = 2
-  name        = 'hashnode'
-  pre        = 'hashnode'
 
 [[footer]]
   identifier = 'email'
   pageRef    = '/'
-  weight     = 3
+  weight     = 1
   name       = 'email'
   pre        = 'email'
 
 [[footer]]
   identifier = 'linkedin'
   pageRef    = '/'
-  weight     = 4
+  weight     = 2
   name        = 'linkedin'
   pre        = 'linkedin'
 
 [[footer]]
-  identifier = 'karyakarsa'
+  identifier = 'github'
   pageRef    = '/'
-  weight     = 5
-  name        = 'karya karsa'
-  pre        = 'karyakarsa'
+  weight     = 3
+  name        = 'github'
+  pre        = 'github'
+
+[[footer]]
+    identifier = 'bluesky'
+    pageRef = '/'
+    weight = 4
+    name = 'bluesky'
+    pre = 'bluesky'

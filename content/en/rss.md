@@ -1,6 +1,6 @@
 ---
 type: 'slide'
-title: 'Hugo Release News'
+title: 'News'
 ---
 
 This is a slide with RSS feed.

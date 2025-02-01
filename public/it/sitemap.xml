@@ -4,19 +4,19 @@
   <url>
     <loc>http://localhost:1313/dragonstaff_technomage/it/categories/</loc>
     
-    <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/categories/" /><xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/dragonstaff_technomage/id/categories/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/categories/" />
     <xhtml:link rel="alternate" hreflang="it-IT" href="http://localhost:1313/dragonstaff_technomage/it/categories/" />
   </url>
   <url>
     <loc>http://localhost:1313/dragonstaff_technomage/it/</loc>
     
-    <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/" /><xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/dragonstaff_technomage/id/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/" />
     <xhtml:link rel="alternate" hreflang="it-IT" href="http://localhost:1313/dragonstaff_technomage/it/" />
   </url>
   <url>
     <loc>http://localhost:1313/dragonstaff_technomage/it/tags/</loc>
     
-    <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/tags/" /><xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/dragonstaff_technomage/id/tags/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/tags/" />
     <xhtml:link rel="alternate" hreflang="it-IT" href="http://localhost:1313/dragonstaff_technomage/it/tags/" />
   </url>
 </urlset>
