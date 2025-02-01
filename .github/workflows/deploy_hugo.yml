@@ -30,7 +30,7 @@ jobs:
 
     # Step 5: Build the Hugo site with debug information
     - name: Build the Hugo site with debug
-      run: hugo --minify --debug
+      run: hugo --minify
 
     # Step 6: Debug GITHUB_TOKEN
     - name: Debug GITHUB_TOKEN
