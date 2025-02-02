@@ -9,7 +9,7 @@
     <managingEditor>dragonstaff_technomage@gmail.com (Dragonstaff &amp; Technomage)</managingEditor>
     <webMaster>dragonstaff_technomage@gmail.com (Dragonstaff &amp; Technomage)</webMaster>
     <copyright>Copyright (c) Foxxi</copyright>
-    <lastBuildDate>Sun, 02 Feb 2025 20:51:15 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 21:17:38 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/dragonstaff_technomage/en/tags/weasleys/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>He&#39;s not your son</title>
@@ -31,6 +31,17 @@
       <description></description>
       
           <enclosure url="/images/weasley.webp" length="0" type="image/jpeg" />
+          
+    </item>
+    <item>
+      <title>Sirius Black</title>
+      <link>http://localhost:1313/dragonstaff_technomage/en/series/disillusioned-hearts/sirius/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <author>dragonstaff_technomage@gmail.com (Dragonstaff &amp; Technomage)</author>
+      <guid>http://localhost:1313/dragonstaff_technomage/en/series/disillusioned-hearts/sirius/</guid>
+      <description></description>
+      
+          <enclosure url="/images/molly_sirius.avif" length="0" type="image/jpeg" />
           
     </item>
   </channel>
