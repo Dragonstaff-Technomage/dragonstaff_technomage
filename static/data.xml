@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fanfiction>
+    <entry>
+        <title>Story Name 1</title>
+        <description>New Chapter Released</description>
+        <link>https://www.fanfiction.net/storylink1</link>
+        <link2>https://archiveofourown.org/storylink1</link2>
+    </entry>
+    <entry>
+        <title>Story Name 2</title>
+        <description>New Chapter Released</description>
+        <link>https://www.fanfiction.net/storylink2</link>
+        <link2>https://archiveofourown.org/storylink2</link2>
+    </entry>
+    <entry>
+        <title>Story Name 3</title>
+        <description>New Chapter Released</description>
+        <link>https://www.fanfiction.net/storylink3</link>
+        <link2>https://archiveofourown.org/storylink3</link2>
+    </entry>
+    <entry>
+        <title>Story Name 4</title>
+        <description>New Chapter Released</description>
+        <link>https://www.fanfiction.net/storylink4</link>
+        <link2>https://archiveofourown.org/storylink4</link2>
+    </entry>
+</fanfiction>
