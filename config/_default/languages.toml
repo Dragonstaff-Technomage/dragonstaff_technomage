@@ -13,10 +13,3 @@
         category = 'categories'
         series = 'series'
         tag = 'tags'
-
-[it]
-    contentDir = 'content/it'
-    disabled = false
-    languageCode = 'it-IT'
-    languageDirection = 'ltr'
-    languageName = 'Italian'

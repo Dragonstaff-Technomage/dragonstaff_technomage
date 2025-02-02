@@ -1,7 +1,7 @@
 # WebSafeFonts = true
 searchBar = true
 pageFind = true
-# logoMark = 'https://example.com/logoMark.svg'
+# logoMark = '/images/DP.jpg'
 # logoMarkDark = 'https://example.com/logoMarkDark.svg'
 logoType = true
 extMeta = true

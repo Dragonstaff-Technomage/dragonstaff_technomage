@@ -1,0 +1,14 @@
+---
+cover: '/images/disillusion.jpeg'
+---
+
+## Disillusioned Hearts
+
+What if Harry thought deeper, thought harder? Our take on a more cynical and gritty Harry Potter who is a political savant and turns the Wizarding World on its head, all the while building the family he always deserved.
+
+<a href="https://www.fanfiction.net/s/your-story-id">
+  <img src="/images/ffnet.webp" width="100" height="100" />
+</a>
+<a href="https://archiveofourown.org/works/your-story-id">
+  <img src="/images/ao3.png" width="120" height="100" />
+</a>

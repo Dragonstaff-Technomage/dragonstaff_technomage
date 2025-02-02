@@ -5,157 +5,32 @@
   weight     = 1
 
   [[main]]
-    name       = 'The Second Glass of Brew'
-    identifier = 'series.brewm'
-    pageRef    = '/'
+    name       = 'The Chosen One(s)'
+    identifier = 'series.tco'
+    pageRef    = '/series/the-chosen-one'
     parent     = 'series'
-    Post       = "Stuff that's at the very heart of things"
+    Post       = "Harry Potter X Star Wars"
 
   [[main]]
-    name       = 'Press Outta Foxx'
-    identifier = 'series.foxx'
-    pageRef    = '/'
+    name       = 'Triumvirate'
+    identifier = 'series.tri'
+    pageRef    = '/series/triumvirate'
     parent     = 'series'
-    Post       = "Digital Humanities and Accessibility"
+    Post       = "Harry Potter X Percy Jackson"
 
   [[main]]
-    name       = 'Sustainable Development'
-    identifier = 'series.sdg'
-    pageRef    = '/'
+    name       = 'Risa abr du skulblaka'
+    identifier = 'series.risa'
+    pageRef    = '/series/risa-abr-du-skulblaka'
     parent     = 'series'
-    Post       = 'The 17 Goals'
-
-    [[main]]
-      name       = 'No Poverty'
-      identifier = 'series.sdg.1'
-      pageRef    = '/'
-      parent     = 'series.sdg'
-
-    [[main]]
-      name       = 'Zero Hunger'
-      identifier = 'series.sdg.2'
-      pageRef    = '/'
-      parent     = 'series.sdg'
-
-    [[main]]
-      name       = 'Good Health and Well-being'
-      identifier = 'series.sdg.3'
-      pageRef    = '/'
-      parent     = 'series.sdg'
-
-    [[main]]
-      name       = 'Quality Education'
-      identifier = 'series.sdg.4'
-      pageRef    = '/'
-      parent     = 'series.sdg'
-
-    [[main]]
-      name       = 'Gender Equality'
-      identifier = 'series.sdg.5'
-      pageRef    = '/'
-      parent     = 'series.sdg'
-
-    [[main]]
-      name       = 'Clean Water and Sanitation'
-      identifier = 'series.sdg.6'
-      pageRef    = '/'
-      parent     = 'series.sdg'
-
-    [[main]]
-      name       = 'Affordable and Clean Energy'
-      identifier = 'series.sdg.7'
-      pageRef    = '/'
-      parent     = 'series.sdg'
-
-    [[main]]
-      name       = 'Decent Work and Economic Growth'
-      identifier = 'series.sdg.8'
-      pageRef    = '/'
-      parent     = 'series.sdg'
-
-    [[main]]
-      name       = 'Industry, Innovation and Infrastructure'
-      identifier = 'series.sdg.9'
-      pageRef    = '/'
-      parent     = 'series.sdg'
-
-    [[main]]
-      name       = 'Reduced Inequalities'
-      identifier = 'series.sdg.10'
-      pageRef    = '/'
-      parent     = 'series.sdg'
-
-    [[main]]
-      name       = 'Sustainable Cities and Communities'
-      identifier = 'series.sdg.11'
-      pageRef    = '/'
-      parent     = 'series.sdg'
-
-    [[main]]
-      name       = 'Responsible Consumption and Production'
-      identifier = 'series.sdg.12'
-      pageRef    = '/'
-      parent     = 'series.sdg'
-
-    [[main]]
-      name       = 'Climate Action'
-      identifier = 'series.sdg.13'
-      pageRef    = '/'
-      parent     = 'series.sdg'
-
-    [[main]]
-      name       = 'Life Below Water'
-      identifier = 'series.sdg.14'
-      pageRef    = '/'
-      parent     = 'series.sdg'
-
-    [[main]]
-      name       = 'Life on Land'
-      identifier = 'series.sdg.15'
-      pageRef    = '/'
-      parent     = 'series.sdg'
-
-    [[main]]
-      name       = 'Peace, Justice and Strong Institutions'
-      identifier = 'series.sdg.16'
-      pageRef    = '/'
-      parent     = 'series.sdg'
-
-    [[main]]
-      name       = 'Partnerships for the Goals'
-      identifier = 'series.sdg.17'
-      pageRef    = '/'
-      parent     = 'series.sdg'
-
-[[main]]
-  name       = 'Works'
-  identifier = 'works'
-  pageRef    = '/'
-  weight     = 2
+    Post       = 'Harry Potter X Inheritance Cycle'
 
   [[main]]
-    name       = 'Commission'
-    identifier = 'commission'
-    pageRef    = '/'
-    parent     = 'works'
-    Post       = 'Example Menu'
-    weight     = 1
-
-  [[main]]
-    name       = 'Project'
-    identifier = 'project'
-    pageRef    = '/'
-    parent     = 'works'
-    Post       = 'My current projects'
-    weight     = 2
-
-  [[main]]
-    name       = 'Gallery'
-    identifier = 'gallery'
-    pageRef    = '/'
-    parent     = 'works'
-    Post       = 'Well, actually, silly stuff'
-    weight     = 3
+    name       = 'Disillusioned Hearts'
+    identifier = 'series.dh'
+    pageRef    = '/series/disillusioned-hearts'
+    parent     = 'series'
+    Post       = 'Harry Potter'
 
 [[more]]
   name       = 'Resources'
@@ -249,11 +124,11 @@
   pre        = 'linkedin'
 
 [[footer]]
-  identifier = 'github'
+  identifier = 'twitter'
   pageRef    = '/'
   weight     = 3
-  name        = 'github'
-  pre        = 'github'
+  name        = 'twitter'
+  pre        = 'twitter'
 
 [[footer]]
     identifier = 'bluesky'

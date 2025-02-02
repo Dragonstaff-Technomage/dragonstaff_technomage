@@ -6,41 +6,91 @@
     
     </url>
   <url>
-    <loc>http://localhost:1313/dragonstaff_technomage/en/slide/</loc>
+    <loc>http://localhost:1313/dragonstaff_technomage/en/story2/</loc>
+    
+    </url>
+  <url>
+    <loc>http://localhost:1313/dragonstaff_technomage/en/story1/</loc>
     
     </url>
   <url>
     <loc>http://localhost:1313/dragonstaff_technomage/en/</loc>
-    
-    <xhtml:link rel="alternate" hreflang="it-IT" href="http://localhost:1313/dragonstaff_technomage/it/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/" />
-  </url>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    </url>
   <url>
-    <loc>http://localhost:1313/dragonstaff_technomage/en/author/</loc>
-    
+    <loc>http://localhost:1313/dragonstaff_technomage/en/tags/bashing/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
     </url>
   <url>
     <loc>http://localhost:1313/dragonstaff_technomage/en/categories/</loc>
-    
-    <xhtml:link rel="alternate" hreflang="it-IT" href="http://localhost:1313/dragonstaff_technomage/it/categories/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/categories/" />
-  </url>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    </url>
   <url>
-    <loc>http://localhost:1313/dragonstaff_technomage/en/rss/</loc>
-    
+    <loc>http://localhost:1313/dragonstaff_technomage/en/tags/discussion/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/dragonstaff_technomage/en/post/why-we-hate-weasleys/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/dragonstaff_technomage/en/post/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/dragonstaff_technomage/en/tags/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/dragonstaff_technomage/en/tags/weasley/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/dragonstaff_technomage/en/categories/weasleys/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/dragonstaff_technomage/en/tags/configuration/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/dragonstaff_technomage/en/categories/configuration/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/dragonstaff_technomage/en/post/configure-logi/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/dragonstaff_technomage/en/post/configure-main-footer/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/dragonstaff_technomage/en/tags/footer/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/dragonstaff_technomage/en/tags/logo/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
     </url>
   <url>
     <loc>http://localhost:1313/dragonstaff_technomage/en/series/</loc>
     
     </url>
   <url>
-    <loc>http://localhost:1313/dragonstaff_technomage/en/post/</loc>
+    <loc>http://localhost:1313/dragonstaff_technomage/en/series/disillusioned-hearts/</loc>
     
     </url>
   <url>
-    <loc>http://localhost:1313/dragonstaff_technomage/en/tags/</loc>
+    <loc>http://localhost:1313/dragonstaff_technomage/en/series/the-chosen-one/</loc>
     
-    <xhtml:link rel="alternate" hreflang="it-IT" href="http://localhost:1313/dragonstaff_technomage/it/tags/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/tags/" />
-  </url>
+    </url>
+  <url>
+    <loc>http://localhost:1313/dragonstaff_technomage/en/series/triumvirate/</loc>
+    
+    </url>
+  <url>
+    <loc>http://localhost:1313/dragonstaff_technomage/en/author/</loc>
+    
+    </url>
 </urlset>

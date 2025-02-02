@@ -1,0 +1,41 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Fanfiction Updates</title>
+        <description>Recent updates to my fanfiction stories.</description>
+        <link>https://yourwebsite.com</link>
+        <generator>Hugo</generator>
+        <language>en</language>
+        <atom:link href="https://yourwebsite.com/rss/fanfiction.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 02 Feb 2025 16:10:20 +0000</lastBuildDate>
+        
+        <!-- Entry 1 -->
+        <item>
+            <title>Story Name 1</title>
+            <link>https://www.fanfiction.net/storylink1</link>
+            <pubDate>Fri, 02 Feb 2025 16:10:20 +0000</pubDate>
+            <guid>https://www.fanfiction.net/storylink1</guid>
+            <description>New Chapter Released</description>
+        </item>
+
+        <!-- Entry 2 -->
+        <item>
+            <title>Story Name 2</title>
+            <link>https://www.fanfiction.net/storylink2</link>
+            <pubDate>Fri, 02 Feb 2025 16:10:20 +0000</pubDate>
+            <guid>https://www.fanfiction.net/storylink2</guid>
+            <description>New Chapter Released</description>
+        </item>
+
+        <!-- Entry 3 -->
+        <item>
+            <title>Story Name 3</title>
+            <link>https://www.fanfiction.net/storylink3</link>
+            <pubDate>Fri, 02 Feb 2025 16:10:20 +0000</pubDate>
+            <guid>https://www.fanfiction.net/storylink3</guid>
+            <description>New Chapter Released</description>
+        </item>
+
+        <!-- Add more entries as needed -->
+
+    </channel>
+</rss>
