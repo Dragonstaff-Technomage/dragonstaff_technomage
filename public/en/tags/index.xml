@@ -9,7 +9,7 @@
     <managingEditor>dragonstaff_technomage@gmail.com (Dragonstaff &amp; Technomage)</managingEditor>
     <webMaster>dragonstaff_technomage@gmail.com (Dragonstaff &amp; Technomage)</webMaster>
     <copyright>Copyright (c) Foxxi</copyright>
-    <lastBuildDate>Sun, 02 Feb 2025 11:05:36 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 12:06:10 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/dragonstaff_technomage/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bashing</title>
@@ -30,11 +30,29 @@
       
     </item>
     <item>
-      <title>Weasley</title>
-      <link>http://localhost:1313/dragonstaff_technomage/en/tags/weasley/</link>
+      <title>Harry</title>
+      <link>http://localhost:1313/dragonstaff_technomage/en/tags/harry/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
       <author>dragonstaff_technomage@gmail.com (Dragonstaff &amp; Technomage)</author>
-      <guid>http://localhost:1313/dragonstaff_technomage/en/tags/weasley/</guid>
+      <guid>http://localhost:1313/dragonstaff_technomage/en/tags/harry/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Sirius</title>
+      <link>http://localhost:1313/dragonstaff_technomage/en/tags/sirius/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <author>dragonstaff_technomage@gmail.com (Dragonstaff &amp; Technomage)</author>
+      <guid>http://localhost:1313/dragonstaff_technomage/en/tags/sirius/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Weasleys</title>
+      <link>http://localhost:1313/dragonstaff_technomage/en/tags/weasleys/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <author>dragonstaff_technomage@gmail.com (Dragonstaff &amp; Technomage)</author>
+      <guid>http://localhost:1313/dragonstaff_technomage/en/tags/weasleys/</guid>
       <description></description>
       
     </item>
@@ -44,15 +62,6 @@
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
       <author>dragonstaff_technomage@gmail.com (Dragonstaff &amp; Technomage)</author>
       <guid>http://localhost:1313/dragonstaff_technomage/en/tags/configuration/</guid>
-      <description></description>
-      
-    </item>
-    <item>
-      <title>Footer</title>
-      <link>http://localhost:1313/dragonstaff_technomage/en/tags/footer/</link>
-      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <author>dragonstaff_technomage@gmail.com (Dragonstaff &amp; Technomage)</author>
-      <guid>http://localhost:1313/dragonstaff_technomage/en/tags/footer/</guid>
       <description></description>
       
     </item>

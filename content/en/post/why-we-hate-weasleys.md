@@ -5,8 +5,8 @@ date: 2025-02-01
 type: post
 draft: false
 coffee: 1
-tags: ['weasley', 'discussion', 'bashing']
-categories: ['weasleys']
+tags: ['weasleys', 'discussion', 'bashing']
+categories: ['Harry Potter']
 cover: '/images/weasley.webp'
 ---
 

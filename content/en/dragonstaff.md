@@ -1,7 +1,7 @@
 ---
 type: 'slide'
-title: 'Chosen One(s)'
-# cover: 'https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/28.svg'
+title: 'Dragonstaff: The Dreamer'
+cover: '/images/dragonstaff.jpeg'
 weight: 1
 ---
 

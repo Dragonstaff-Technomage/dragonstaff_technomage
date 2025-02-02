@@ -1,6 +1,7 @@
 ---
 type: 'slide'
-title: 'Triumvirate'
+title: 'Technomage: The Realist'
+cover: '/images/technomage.jpg'
 weight: 2
 ---
 
