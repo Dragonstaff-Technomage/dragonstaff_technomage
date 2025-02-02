@@ -6,9 +6,10 @@ type: post
 draft: false
 coffee: 1
 tags: ['weasleys', 'discussion', 'bashing']
-categories: ['Harry Potter']
+# categories: ['Harry Potter']
 cover: '/images/weasley.webp'
 ---
+![Weasley Family](/images/weasley.webp)
 
 The `Weasley` family plays such a big role in the books, it's unsurprising there's a backlash, especially from those who are not keen on them. E.g., look at how the family kinda turns to Tetsuo at the end of Akira, abdorbing the main characters into themselves like an expanding amoeba. Harry, Hermione, Fleur and Angelina get sucked into the family, and Molly tries her darndest to get Tonks into it as well.
 

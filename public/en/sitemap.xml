@@ -15,26 +15,34 @@
     </url>
   <url>
     <loc>http://localhost:1313/dragonstaff_technomage/en/</loc>
-    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/dragonstaff_technomage/en/tags/discussion/</loc>
+    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/dragonstaff_technomage/en/tags/magic/</loc>
+    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/dragonstaff_technomage/en/post/magic-system/</loc>
+    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/dragonstaff_technomage/en/post/</loc>
+    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/dragonstaff_technomage/en/tags/</loc>
+    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
     </url>
   <url>
     <loc>http://localhost:1313/dragonstaff_technomage/en/tags/bashing/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/dragonstaff_technomage/en/categories/</loc>
-    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
-    </url>
-  <url>
-    <loc>http://localhost:1313/dragonstaff_technomage/en/tags/discussion/</loc>
-    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
-    </url>
-  <url>
     <loc>http://localhost:1313/dragonstaff_technomage/en/tags/harry/</loc>
-    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
-    </url>
-  <url>
-    <loc>http://localhost:1313/dragonstaff_technomage/en/categories/harry-potter/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
     </url>
   <url>
@@ -46,36 +54,12 @@
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/dragonstaff_technomage/en/post/</loc>
-    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
-    </url>
-  <url>
     <loc>http://localhost:1313/dragonstaff_technomage/en/tags/sirius/</loc>
-    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
-    </url>
-  <url>
-    <loc>http://localhost:1313/dragonstaff_technomage/en/tags/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
     </url>
   <url>
     <loc>http://localhost:1313/dragonstaff_technomage/en/tags/weasleys/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
-    </url>
-  <url>
-    <loc>http://localhost:1313/dragonstaff_technomage/en/tags/configuration/</loc>
-    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
-    </url>
-  <url>
-    <loc>http://localhost:1313/dragonstaff_technomage/en/categories/configuration/</loc>
-    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
-    </url>
-  <url>
-    <loc>http://localhost:1313/dragonstaff_technomage/en/post/configure-logi/</loc>
-    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
-    </url>
-  <url>
-    <loc>http://localhost:1313/dragonstaff_technomage/en/tags/logo/</loc>
-    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
     </url>
   <url>
     <loc>http://localhost:1313/dragonstaff_technomage/en/series/</loc>
@@ -95,6 +79,10 @@
     </url>
   <url>
     <loc>http://localhost:1313/dragonstaff_technomage/en/author/</loc>
+    
+    </url>
+  <url>
+    <loc>http://localhost:1313/dragonstaff_technomage/en/categories/</loc>
     
     </url>
 </urlset>

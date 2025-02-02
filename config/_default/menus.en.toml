@@ -45,13 +45,6 @@
   weight     = 5
 
   [[more]]
-  name       = 'Sustainability'
-  identifier = 'sustainability'
-  pageRef    = '/'
-  parent     = 'about'
-  weight     = 1
-
-  [[more]]
   name       = 'Author'
   identifier = 'author'
   pageRef    = '/author'
@@ -78,36 +71,6 @@
   weight     = 3
   pre        = 'mastodon'
 
-[[more]]
-  name       = 'More Menu'
-  identifier = 'more.menu'
-  pageRef    = '/'
-  weight     = 99
-
-  [[more]]
-    name       = 'That'
-    identifier = 'more.menu.that'
-    parent     = 'more.menu'
-    pageRef    = '/'
-
-    [[more]]
-      name       = 'Never'
-      identifier = 'more.menu.that.never'
-      parent     = 'more.menu.that'
-      pageRef    = '/'
-
-      [[more]]
-        name       = 'Too'
-        identifier = 'more.menu.that.never.too'
-        parent     = 'more.menu.that.never'
-        pageRef    = '/'
-
-        [[more]]
-          name       = 'Deep'
-          identifier = 'more.menu.that.never.too.deep'
-          parent     = 'more.menu.that.never.too'
-          pageRef    = '/'
-
 
 [[footer]]
   identifier = 'email'
@@ -117,11 +80,11 @@
   pre        = 'email'
 
 [[footer]]
-  identifier = 'linkedin'
+  identifier = 'reddit'
   pageRef    = '/'
   weight     = 2
-  name        = 'linkedin'
-  pre        = 'linkedin'
+  name        = 'reddit'
+  pre        = 'reddit'
 
 [[footer]]
   identifier = 'twitter'
