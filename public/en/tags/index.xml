@@ -9,8 +9,53 @@
     <managingEditor>dragonstaff_technomage@gmail.com (Dragonstaff &amp; Technomage)</managingEditor>
     <webMaster>dragonstaff_technomage@gmail.com (Dragonstaff &amp; Technomage)</webMaster>
     <copyright>Copyright (c) Foxxi</copyright>
-    <lastBuildDate>Sun, 02 Feb 2025 21:17:38 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 18:10:31 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/dragonstaff_technomage/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Albus</title>
+      <link>http://localhost:1313/dragonstaff_technomage/en/tags/albus/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      <author>dragonstaff_technomage@gmail.com (Dragonstaff &amp; Technomage)</author>
+      <guid>http://localhost:1313/dragonstaff_technomage/en/tags/albus/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Anakin</title>
+      <link>http://localhost:1313/dragonstaff_technomage/en/tags/anakin/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      <author>dragonstaff_technomage@gmail.com (Dragonstaff &amp; Technomage)</author>
+      <guid>http://localhost:1313/dragonstaff_technomage/en/tags/anakin/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Character Excerpts</title>
+      <link>http://localhost:1313/dragonstaff_technomage/en/tags/character-excerpts/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      <author>dragonstaff_technomage@gmail.com (Dragonstaff &amp; Technomage)</author>
+      <guid>http://localhost:1313/dragonstaff_technomage/en/tags/character-excerpts/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Harry</title>
+      <link>http://localhost:1313/dragonstaff_technomage/en/tags/harry/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      <author>dragonstaff_technomage@gmail.com (Dragonstaff &amp; Technomage)</author>
+      <guid>http://localhost:1313/dragonstaff_technomage/en/tags/harry/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Sirius</title>
+      <link>http://localhost:1313/dragonstaff_technomage/en/tags/sirius/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      <author>dragonstaff_technomage@gmail.com (Dragonstaff &amp; Technomage)</author>
+      <guid>http://localhost:1313/dragonstaff_technomage/en/tags/sirius/</guid>
+      <description></description>
+      
+    </item>
     <item>
       <title>Discussion</title>
       <link>http://localhost:1313/dragonstaff_technomage/en/tags/discussion/</link>
@@ -35,24 +80,6 @@
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
       <author>dragonstaff_technomage@gmail.com (Dragonstaff &amp; Technomage)</author>
       <guid>http://localhost:1313/dragonstaff_technomage/en/tags/bashing/</guid>
-      <description></description>
-      
-    </item>
-    <item>
-      <title>Harry</title>
-      <link>http://localhost:1313/dragonstaff_technomage/en/tags/harry/</link>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <author>dragonstaff_technomage@gmail.com (Dragonstaff &amp; Technomage)</author>
-      <guid>http://localhost:1313/dragonstaff_technomage/en/tags/harry/</guid>
-      <description></description>
-      
-    </item>
-    <item>
-      <title>Sirius</title>
-      <link>http://localhost:1313/dragonstaff_technomage/en/tags/sirius/</link>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <author>dragonstaff_technomage@gmail.com (Dragonstaff &amp; Technomage)</author>
-      <guid>http://localhost:1313/dragonstaff_technomage/en/tags/sirius/</guid>
       <description></description>
       
     </item>

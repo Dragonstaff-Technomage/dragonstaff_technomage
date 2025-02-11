@@ -1,14 +1,14 @@
 ---
-title: "Sirius Black"
-description: "The Prisoner of Azkaban"
-date: 2025-02-01
+title: "Sirius Orion Black"
+description: "The Dogstar"
+date: 2025-02-11
 type: article
 draft: false
 translationKey: mainfooter
 coffee: 4
-tags: ['weasleys', 'sirius', 'harry', 'discussion']
+tags: ['sirius', 'character excerpts']
 # categories: ['Harry Potter']
-cover: '/images/molly_sirius.avif'
+cover: '/images/Sirius.webp'
 ---
 
 The stars had always held a certain allure for Sirius Orion Black. As a child, he would stare at the night sky from the vast windows of Grimmauld Place, tracing the constellations his family held sacred. “You’re named after the brightest star, my son,” his mother would say, her voice cold and proud, as though she had chosen his destiny herself. But Sirius never wanted to be the brightest. He just wanted to be free.

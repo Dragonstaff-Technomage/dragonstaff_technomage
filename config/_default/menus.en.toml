@@ -32,6 +32,12 @@
     parent     = 'series'
     Post       = 'Harry Potter'
 
+[[main]]
+  name       = 'Character'
+  identifier = 'character'
+  pageRef    = '/character'
+  weight     = 2
+
 [[more]]
   name       = 'Resources'
   identifier = 'resources'
