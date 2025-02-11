@@ -1,5 +1,5 @@
 ---
-cover: '/images/twitter.png'
+cover: '/images/Twitter.png'
 ---
 
 ## Our Stories

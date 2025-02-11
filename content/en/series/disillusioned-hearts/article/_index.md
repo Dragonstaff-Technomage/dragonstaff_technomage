@@ -1,4 +1,0 @@
----
-title: "Article"
-translationKey: article
----
