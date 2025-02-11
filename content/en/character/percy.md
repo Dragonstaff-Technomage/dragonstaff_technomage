@@ -11,6 +11,9 @@ tags: ['percy', 'character excerpts']
 cover: '/images/percy.jpg'
 ---
 
+![Powerful Percy](/images/percy_loyalty.jpg)
+
+
 It started, as it always did, with water.
 
 Not the gentle kind that lapped against the shore, nor the kind that danced in fountains beneath city lights. No, this was the sea in its rawest form—ancient, unbreakable, infinite. The tides moved to his will, the storms called him brother, and the deepest trenches of the ocean whispered his name in currents older than Olympus itself.

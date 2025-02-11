@@ -11,6 +11,8 @@ tags: ['sirius', 'character excerpts']
 cover: '/images/Sirius.webp'
 ---
 
+![Lonely Sirius](/images/sirius_lost.jpg)
+
 The stars had always held a certain allure for Sirius Orion Black. As a child, he would stare at the night sky from the vast windows of Grimmauld Place, tracing the constellations his family held sacred. “You’re named after the brightest star, my son,” his mother would say, her voice cold and proud, as though she had chosen his destiny herself. But Sirius never wanted to be the brightest. He just wanted to be free.
 
 Freedom, however, was a scarce commodity in the Black family. The House of Black prided itself on tradition, on purity, on the unyielding grip of bloodlines and expectations. Sirius, with his untamed laughter and reckless defiance, was a stain on their perfect tapestry. He would break curfews to wander the streets of London, charm the house-elves into revealing forbidden secrets, and write crude messages in the dust on ancestral portraits.

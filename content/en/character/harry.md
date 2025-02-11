@@ -10,6 +10,8 @@ tags: ['harry', 'character excerpts']
 # categories: ['Harry Potter']
 cover: '/images/harry.jpg'
 ---
+![Powerful Harry](/images/harry_powerful.jpg)
+
 
 The cupboard beneath the stairs was small, dark, and suffocating. The boy who lived within its confines was smaller still. He had no kingdom, no crown—only bruises that faded too slowly and hunger that never did. But the universe had already written his name in fire and prophecy, in blood and destiny. Harry Potter. The Boy Who Lived.
 

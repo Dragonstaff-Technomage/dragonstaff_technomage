@@ -11,6 +11,7 @@ tags: ['albus', 'character excerpts']
 cover: '/images/albus.jpg'
 ---
 
+![Powerful Albus Dumbledore](/images/albus_powerful.jpg)
 The great magical war, woven into the fabric of the Second World War, raged across Europe like an unstoppable tempest. Amidst the devastation, one figure, towering and indomitable, carved a path through the chaos. His eyes, once alight with youthful idealism, now burned with a grim resolve as he fulfilled his duty to the International Confederation of Wizards.
 
 This was a war unlike any other, where the clash of spells matched the ferocity of Muggle weaponry. The skies over Vienna, Paris, and Berlin shimmered with the ethereal glow of magic, the air crackling with the energy of duelling wizards. Amidst the turmoil, our protagonist emerged, a young yet immensely powerful wizard whose mere presence on the battlefield turned the tide of war.

@@ -10,6 +10,7 @@ tags: ['anakin', 'character excerpts']
 # categories: ['Harry Potter']
 cover: '/images/anakin.avif'
 ---
+![Powerful Anakin](/images/anakin_force.gif)
 
 The planet trembled. The skies burned, split open by storms that should not exist. The earth cracked, unable to bear the weight of something vast, something eternal. The Force churned—light and dark in perfect harmony, not in battle, not in opposition, but in unity. The Balance had come.
 
