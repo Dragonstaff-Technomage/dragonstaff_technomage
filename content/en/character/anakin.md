@@ -7,7 +7,7 @@ draft: false
 translationKey: mainfooter
 coffee: 4
 tags: ['anakin', 'character excerpts']
-# categories: ['Harry Potter']
+categories: ['Character Profiles']
 cover: '/images/anakin.avif'
 ---
 ![Powerful Anakin](/images/anakin_force.gif)

@@ -7,7 +7,7 @@ draft: false
 translationKey: logo
 coffee: 1
 tags: ['discussion', 'magic']
-# categories: ['Harry Potter']
+categories: ['Harry Potter']
 cover: '/images/magic.jpg'
 ---
 The Harry Potter universe screwed itself right out of the gate by combining the softest of soft magic with setting the entire thing in a _school_ for _teaching_ the protagonist _how magic worked_, and rather than having to establish hard rules on a soft magic system so it _could_ let magic do its job, it split the difference by making Harry such a terrible student that neither he nor the audience ever learns anything about how magic actually works. Hermione does hif homework for him. He cheats off Snape's old textbook. He starts and ends the series with the _same spell_ because it's poetic and also becuase to do anything else would've required letting him actually _learn_ or _grow_.

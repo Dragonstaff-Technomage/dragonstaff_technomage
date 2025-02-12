@@ -7,7 +7,7 @@ draft: false
 translationKey: mainfooter
 coffee: 4
 tags: ['weasleys', 'sirius', 'harry', 'discussion']
-# categories: ['Harry Potter']
+categories: ['Harry Potter']
 cover: '/images/molly_sirius.avif'
 ---
 

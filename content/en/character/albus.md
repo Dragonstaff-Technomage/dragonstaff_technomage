@@ -7,7 +7,7 @@ draft: false
 translationKey: mainfooter
 coffee: 4
 tags: ['albus', 'character excerpts']
-# categories: ['Harry Potter']
+categories: ['Character Profiles']
 cover: '/images/albus.jpg'
 ---
 

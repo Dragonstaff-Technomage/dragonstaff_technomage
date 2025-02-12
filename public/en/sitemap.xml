@@ -6,15 +6,7 @@
     
     </url>
   <url>
-    <loc>http://localhost:1313/dragonstaff_technomage/en/author/nihar/</loc>
-    
-    </url>
-  <url>
     <loc>http://localhost:1313/dragonstaff_technomage/en/dragonstaff/</loc>
-    
-    </url>
-  <url>
-    <loc>http://localhost:1313/dragonstaff_technomage/en/author/shreyas/</loc>
     
     </url>
   <url>
@@ -50,7 +42,15 @@
     <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/anakin/" />
   </url>
   <url>
+    <loc>http://localhost:1313/dragonstaff_technomage/en/categories/</loc>
+    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    </url>
+  <url>
     <loc>http://localhost:1313/dragonstaff_technomage/en/tags/character-excerpts/</loc>
+    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/dragonstaff_technomage/en/categories/character-profiles/</loc>
     <lastmod>2025-02-11T00:00:00+00:00</lastmod>
     </url>
   <url>
@@ -89,6 +89,10 @@
     </url>
   <url>
     <loc>http://localhost:1313/dragonstaff_technomage/en/tags/discussion/</loc>
+    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/dragonstaff_technomage/en/categories/harry-potter/</loc>
     <lastmod>2025-02-02T00:00:00+00:00</lastmod>
     </url>
   <url>
@@ -143,10 +147,6 @@
     </url>
   <url>
     <loc>http://localhost:1313/dragonstaff_technomage/en/series/triumvirate/</loc>
-    
-    </url>
-  <url>
-    <loc>http://localhost:1313/dragonstaff_technomage/en/categories/</loc>
     
     </url>
 </urlset>
