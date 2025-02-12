@@ -6,7 +6,7 @@ type: post
 draft: false
 coffee: 1
 tags: ['weasleys', 'discussion', 'bashing']
-categories: ['Harry Potter']
+# categories: ['Harry Potter']
 cover: '/images/weasley.webp'
 ---
 ![Weasley Family](/images/weasley.webp)

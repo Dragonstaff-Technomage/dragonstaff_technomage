@@ -7,7 +7,7 @@ draft: false
 translationKey: mainfooter
 coffee: 4
 tags: ['harry', 'character excerpts']
-categories: ['Character Profiles']
+# categories: ['Character Profiles']
 cover: '/images/harry.jpg'
 ---
 ![Powerful Harry](/images/harry_powerful.jpg)

@@ -7,7 +7,7 @@ draft: false
 translationKey: mainfooter
 coffee: 4
 tags: ['percy', 'character excerpts']
-categories: ['Character Profiles']
+# categories: ['Character Profiles']
 cover: '/images/percy.jpg'
 ---
 

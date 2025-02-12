@@ -15,7 +15,33 @@
     </url>
   <url>
     <loc>http://localhost:1313/dragonstaff_technomage/en/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/dragonstaff_technomage/en/series/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/dragonstaff_technomage/en/categories/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/dragonstaff_technomage/en/categories/chapters/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/dragonstaff_technomage/en/tags/disillusioned-hearts/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/dragonstaff_technomage/en/series/disillusioned-hearts/chap1/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/albus/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/anakin/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/harry/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/percy/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/sirius/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/post/hes-not-your-son/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/series/disillusioned-hearts/chap1/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/dragonstaff_technomage/en/tags/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
     </url>
   <url>
     <loc>http://localhost:1313/dragonstaff_technomage/en/character/</loc>
@@ -28,7 +54,7 @@
   <url>
     <loc>http://localhost:1313/dragonstaff_technomage/en/character/albus/</loc>
     <lastmod>2025-02-11T00:00:00+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/anakin/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/harry/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/percy/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/sirius/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/post/hes-not-your-son/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/series/disillusioned-hearts/chap1/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/anakin/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/harry/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/percy/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/sirius/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/post/hes-not-your-son/" />
     <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/albus/" />
   </url>
   <url>
@@ -38,13 +64,9 @@
   <url>
     <loc>http://localhost:1313/dragonstaff_technomage/en/character/anakin/</loc>
     <lastmod>2025-02-11T00:00:00+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/albus/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/harry/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/percy/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/sirius/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/post/hes-not-your-son/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/series/disillusioned-hearts/chap1/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/albus/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/harry/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/percy/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/sirius/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/post/hes-not-your-son/" />
     <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/anakin/" />
   </url>
-  <url>
-    <loc>http://localhost:1313/dragonstaff_technomage/en/categories/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
-    </url>
   <url>
     <loc>http://localhost:1313/dragonstaff_technomage/en/tags/character-excerpts/</loc>
     <lastmod>2025-02-11T00:00:00+00:00</lastmod>
@@ -60,7 +82,7 @@
   <url>
     <loc>http://localhost:1313/dragonstaff_technomage/en/character/harry/</loc>
     <lastmod>2025-02-11T00:00:00+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/albus/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/anakin/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/percy/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/sirius/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/post/hes-not-your-son/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/series/disillusioned-hearts/chap1/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/albus/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/anakin/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/percy/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/sirius/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/post/hes-not-your-son/" />
     <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/harry/" />
   </url>
   <url>
@@ -70,7 +92,7 @@
   <url>
     <loc>http://localhost:1313/dragonstaff_technomage/en/character/percy/</loc>
     <lastmod>2025-02-11T00:00:00+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/albus/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/anakin/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/harry/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/sirius/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/post/hes-not-your-son/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/series/disillusioned-hearts/chap1/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/albus/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/anakin/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/harry/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/sirius/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/post/hes-not-your-son/" />
     <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/percy/" />
   </url>
   <url>
@@ -80,13 +102,9 @@
   <url>
     <loc>http://localhost:1313/dragonstaff_technomage/en/character/sirius/</loc>
     <lastmod>2025-02-11T00:00:00+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/albus/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/anakin/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/harry/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/percy/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/post/hes-not-your-son/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/series/disillusioned-hearts/chap1/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/albus/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/anakin/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/harry/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/percy/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/post/hes-not-your-son/" />
     <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/sirius/" />
   </url>
-  <url>
-    <loc>http://localhost:1313/dragonstaff_technomage/en/tags/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
-    </url>
   <url>
     <loc>http://localhost:1313/dragonstaff_technomage/en/tags/discussion/</loc>
     <lastmod>2025-02-02T00:00:00+00:00</lastmod>
@@ -114,7 +132,7 @@
   <url>
     <loc>http://localhost:1313/dragonstaff_technomage/en/post/hes-not-your-son/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/albus/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/anakin/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/harry/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/percy/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/sirius/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/series/disillusioned-hearts/chap1/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/albus/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/anakin/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/harry/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/percy/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/character/sirius/" />
     <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/dragonstaff_technomage/en/post/hes-not-your-son/" />
   </url>
   <url>
@@ -127,10 +145,6 @@
     </url>
   <url>
     <loc>http://localhost:1313/dragonstaff_technomage/en/author/</loc>
-    
-    </url>
-  <url>
-    <loc>http://localhost:1313/dragonstaff_technomage/en/series/</loc>
     
     </url>
   <url>
